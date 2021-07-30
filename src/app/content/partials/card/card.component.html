@@ -1,0 +1,39 @@
+<mat-card class="example-card mb-5" [ngClass]="cardConfig.customClass||''">
+  <!--start:card has template-->
+  <ng-container *ngIf="cardConfig.customTemplate;else withOutTemplate">
+    <ng-container *ngTemplateOutlet="cardConfig.customTemplate;
+        context:{ item: cardItem }">
+    </ng-container>
+  </ng-container>
+  <!--end:card has template-->
+  <!--start:card without template-->
+  <ng-template #withOutTemplate>
+    <!--start:header-->
+    <mat-card-header>
+      <mat-card-title>
+        <span class="title">{{cardConfig.HeaderText}}</span>
+      </mat-card-title>
+    </mat-card-header>
+    <!--End:header-->
+    <!--start:content-->
+    <mat-card-content>
+      <ng-container *ngIf="cardConfig.contentCard">
+        <ng-container *ngTemplateOutlet="cardConfig.contentCard.customTemplate;
+        context:{ item: cardItem }">
+        </ng-container>
+      </ng-container>
+    </mat-card-content>
+    <!--End:content-->
+    <!--start:footer-->
+    <mat-card-actions *ngIf="cardConfig.footerActionCard">
+      <button class="btn text-primary btn-link"
+              (click)="cardConfig.footerActionCard.footerClick()">
+        {{cardConfig.footerActionCard.footerText}}
+      </button>
+    </mat-card-actions>
+    <!--End:footer-->
+  </ng-template>
+  <!--end:card without template-->
+</mat-card>
+
+

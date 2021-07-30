@@ -1,0 +1,13 @@
+::ng-deep {
+  app-sidebar {
+    position: fixed !important;
+  }
+}
+
+.logo {
+  width: 35px;
+
+  path {
+    fill: rgb(217, 217, 217);
+  }
+}

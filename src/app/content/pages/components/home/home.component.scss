@@ -1,0 +1,153 @@
+.header{
+  path {
+    fill: #4e73df;
+  }
+
+}
+
+path {
+  fill: rgb(110, 118, 125);
+}
+
+svg {
+  width: 26px;
+}
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background-color: #000;
+
+}
+
+.form-control, .input-group-text {
+  padding: 10px;
+  height: initial;
+  border-radius: 30px;
+
+}
+
+.form-control, .input-group-text {
+  background-color: #15181c;
+  border: none;
+}
+
+form {
+  width: 100%;
+
+  .form-row {
+    margin: 0 auto;
+  }
+}
+
+.m-auto {
+  margin: 0 auto;
+}
+
+//card
+
+::ng-deep{
+  .transparent {
+    background: transparent;
+    color: #fff;
+  }
+
+  .trendBox {
+    color: #fff;
+    background-color: #15181c;
+    border-radius: 30px!important;
+    &.mat-card{
+      padding: 0;
+    }
+    & .mat-card-header{
+      padding:16px 5px 0 0;
+    }
+    & .mat-card-actions{
+      padding: 5px!important;
+      margin: -14px 10px!important;
+    }
+  }
+
+}
+
+
+mat-card-title {
+  span {
+    color: rgb(110, 118, 125);
+    font-size: 13px;
+  }
+
+  .title {
+    color: #fff;
+    font-size: 15px;
+  }
+
+  .credit-icon {
+    margin-left: 2px;
+
+    svg {
+      width: 20px;
+    }
+
+    path {
+      fill: #fff
+    }
+  }
+
+  .user-id {
+    margin-left: 2px;
+  }
+}
+
+mat-card-subtitle {
+  &.description {
+    color: #fff;
+  }
+}
+
+.img-box {
+  overflow: hidden;
+  height: auto;
+  margin: 0 35px;
+  padding: 0 30px;
+}
+
+.mat-card-image {
+  border-radius: 30px;
+}
+
+.mat-card-image:first-child {
+  margin-top: inherit;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+
+mat-card-actions {
+  color: rgb(110, 118, 125);
+  cursor: pointer;
+
+  .icon-box {
+    svg {
+      fill: rgb(110, 118, 125);
+      width: 20px;
+    }
+  }
+}
+
+// sidebar list
+
+.hashtag{
+  font-size: 14px;
+  margin-bottom: 2px;
+}
+.title{
+  color: #6e767d;
+  margin-bottom: 2px;
+}
+.list-group-item {
+  background-color: transparent;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}

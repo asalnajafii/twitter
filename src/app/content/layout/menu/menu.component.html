@@ -1,0 +1,19 @@
+<!-- start: Nav item -->
+<li *ngFor="let menuItem of menuItems">
+  <a [routerLink]="menuItem.page"
+     [routerLinkActive]="menuItem?.config?.activeClass || 'active'"
+     [routerLinkActiveOptions]="{exact:!!menuItem?.config?.activeOption}">
+     <span>
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <g>
+          <path [attr.d]="menuItem.svgPath"></path>
+          </g>
+        </svg>
+      </span>
+    <span class="menu-title">
+          {{menuItem.title}}
+    </span>
+  </a>
+</li>
+<!-- end: Nav item-->
+

@@ -1,0 +1,17 @@
+li {
+  svg {
+    width: 30px;
+  }
+
+  path {
+    fill: rgb(217, 217, 217);
+  }
+  .active{
+    path{
+      fill: #4e73df!important;
+    }
+  .menu-title{
+    color: #4e73df;
+  }
+  }
+}

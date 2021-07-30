@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "name": "Trash Italiano",
+    "userId": "@trash_italiano",
+    "profileImage": "https://via.placeholder.com/150/ccc/fff",
+    "date": "Jul 27",
+    "description": "Niente da fare, neanche dopo un anno e mezzo",
+    "imageUrl": "https://via.placeholder.com/400x300/ccc/fff",
+    "replyCount": 225,
+    "retweetCount": 100,
+    "likeCount": 50,
+    "shareCount": 200
+  },
+  {
+    "id": 2,
+    "name": "Trash Italiano",
+    "userId": "@trash_italiano",
+    "profileImage": "https://via.placeholder.com/150/ccc/fff",
+    "date": "24h",
+    "description": "Dal sondaggio di ieri fatto sulla pagina Instagram di Trash Italiano: “avete già fatto il vaccino?”\n\nI risultati:",
+    "imageUrl": "https://via.placeholder.com/400x300/ccc/fff",
+    "replyCount": 500,
+    "retweetCount": 124,
+    "likeCount": 999,
+    "shareCount": 10
+  },
+  {
+    "id": 3,
+    "name": "Cedrica",
+    "userId": "@Cedrica",
+    "profileImage": "https://via.placeholder.com/150/ccc/fff",
+    "date": "10h",
+    "description": "now dababy got Elton John on his ass",
+    "imageUrl": "https://via.placeholder.com/400x300/ccc/fff",
+    "replyCount": 5,
+    "retweetCount": 12,
+    "likeCount": 14,
+    "shareCount": 50
+  },
+  {
+    "id": 4,
+    "name": "Eurosport IT",
+    "userId": "@Eurosport_IT",
+    "profileImage": "https://via.placeholder.com/150/ccc/fff",
+    "date": "Jul 27",
+    "description": "Ma parliamo del fatto che se siete di Milano, Napoli, Roma o Bologna e ne avete bisogno, con Uber avete corsa GRATIS andata e ritorno per l’hub vaccinale (max 25€/corsa, ci sono 20.000 corse offerte).\n\nBasta inserire il codice promozionale ANDIAMO+città (es. ANDIAMOMILANO) ",
+    "imageUrl": "https://via.placeholder.com/400x300/ccc/fff",
+    "replyCount": 40,
+    "retweetCount": 20,
+    "likeCount": 70,
+    "shareCount": 12
+  },
+  {
+    "id": 5,
+    "name": "Trash Italiano",
+    "userId": "@trash_italiano",
+    "profileImage": "https://via.placeholder.com/150/ccc/fff",
+    "date": "Jul 14",
+    "description": "Niente da fare, neanche dopo un anno e mezzo",
+    "imageUrl": "https://via.placeholder.com/400x300/ccc/fff",
+    "replyCount": 10,
+    "retweetCount": 22,
+    "likeCount": 45,
+    "shareCount": 80
+  },
+  {
+    "id": 6,
+    "name": "Trash Italiano",
+    "userId": "@trash_italiano",
+    "profileImage": "https://via.placeholder.com/150/ccc/fff",
+    "date": "Jul 27",
+    "description": "Niente da fare, neanche dopo un anno e mezzo",
+    "imageUrl": "https://via.placeholder.com/400x300/ccc/fff",
+    "replyCount": 455,
+    "retweetCount": 257,
+    "likeCount": 555,
+    "shareCount": 966
+  },
+  {
+    "id": 7,
+    "name": "Trash Italiano",
+    "userId": "@trash_italiano",
+    "profileImage": "https://via.placeholder.com/150/ccc/fff",
+    "date": "May 27",
+    "description": "Niente da fare, neanche dopo un anno e mezzo",
+    "imageUrl": "https://via.placeholder.com/400x300/ccc/fff",
+    "replyCount": 225,
+    "retweetCount": 777,
+    "likeCount": 555,
+    "shareCount": 222
+  },
+  {
+    "id": 8,
+    "name": "Trash Italiano",
+    "userId": "@trash_italiano",
+    "profileImage": "https://via.placeholder.com/150/ccc/fff",
+    "date": "30h",
+    "description": "Niente da fare, neanche dopo un anno e mezzo",
+    "imageUrl": "https://via.placeholder.com/400x300/ccc/fff",
+    "replyCount": 10,
+    "retweetCount": 70,
+    "likeCount": 52,
+    "shareCount": 80
+  },
+  {
+    "id": 9,
+    "name": "Trash Italiano",
+    "userId": "@trash_italiano",
+    "profileImage": "https://via.placeholder.com/150/ccc/fff",
+    "date": "Jul 10",
+    "description": "Niente da fare, neanche dopo un anno e mezzo",
+    "imageUrl": "https://via.placeholder.com/400x300/ccc/fff",
+    "replyCount": 5,
+    "retweetCount": 0,
+    "likeCount": 10,
+    "shareCount": 3
+  },
+  {
+    "id": 10,
+    "name": "Trash Italiano",
+    "userId": "@trash_italiano",
+    "profileImage": "https://via.placeholder.com/150/ccc/fff",
+    "date": "2h",
+    "description": "Niente da fare, neanche dopo un anno e mezzo",
+    "imageUrl": "https://via.placeholder.com/400x300/ccc/fff",
+    "replyCount": 10,
+    "retweetCount": 5,
+    "likeCount": 8,
+    "shareCount": 9
+  }
+
+]
+
+
+
